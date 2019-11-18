@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-docs-samples-functions-fastly",
+  "version": "1.0.0",
+  "description": "Demo of a Google Cloud Function to purge Fastly when Cloud Storage objects change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoogleCloudPlatform/nodejs-docs-samples.git"
+  },
+  "author": "Fastly, Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GoogleCloudPlatform/nodejs-docs-samples/issues"
+  },
+  "homepage": "https://github.com/GoogleCloudPlatform/nodejs-docs-samples#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
